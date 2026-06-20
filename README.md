@@ -30,5 +30,4 @@ The application features a responsive chat interface, dynamic follow-up question
 ```text
 ├── server.py                 # Main Flask application and ML logic
 ├── Diseases_Symptoms.csv     # Dataset containing diseases, symptoms, and treatments
-└── static/
-    └── index.html            # Frontend UI (served by Flask)
+└── index.html       # Frontend UI (served by Flask)
